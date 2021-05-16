@@ -20,7 +20,7 @@ I live in :brazil: , Rio de Janeiro :sun_with_face:
 
 I'm going through a career transition. At the moment I am studying full stack development.
 
-I have been learning about HTML, CSS and JS.:computer:
+I have been learning about HTML, CSS, JS and Java.:computer:
 
 I'm Mentee Cloud Girls.:heart::purple_heart:
 
