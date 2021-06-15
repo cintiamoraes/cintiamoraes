@@ -22,6 +22,8 @@ I'm going through a career transition. At the moment I am studying full stack de
 
 I have been learning about HTML, CSS, JS and Java.:computer:
 
+I'm a front-end development student at TIVIT Acelera Devs. 😃
+
 I'm Mentee Cloud Girls.:heart::purple_heart:
 
 I'm bilingual in Portuguese and Spanish and I'm learning a little English and French. 
