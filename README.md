@@ -24,6 +24,8 @@ I have been learning about HTML, CSS, JS and Java.:computer:
 
 I'm a front-end development student at TIVIT Accelerates Devs Women's Edition. 😃
 
+I'm also a Salesforce Cloud Marketing student at Deloitte.
+
 I'm Mentee Cloud Girls.:heart::purple_heart:
 
 I'm bilingual in Portuguese and Spanish and I'm learning a little English and French. 
